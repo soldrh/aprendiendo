@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+h1{
+    color: darkblue;
+}
+p{
+    color: darkviolet;
+}
+h3{
+    color: darkgreen;
+}
+img{
+    width: 250px;
+    border-radius: 680px;
+    margin-top: 40px;
+}
+h4{
+    color: orangered;
+}
+footer{
+    color: darkmagenta;
+    margin-top: 40px;
+}
